@@ -1,0 +1,8 @@
+{
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
+    "emmet.includeLanguages": {
+      "django-html": "html"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.colorTheme": "Bearded Theme Black & Gold"
+  }
